@@ -42,3 +42,27 @@
 # greeting = "Hello there"
 # name = "George"
 # greeting_with_name = greeting + ", " + name
+
+# Zero Division Error
+# a = 2
+# b = 1
+# c = 0
+# print(a / c)
+
+# rainbow = "A rainbow has seven colors.
+# print(rainbow)
+
+# third_expression = 3 * 3 == '9'
+# print(third_expression)
+
+# my_baby_bool = "true"
+# print(type(my_baby_bool))
+
+# my_baby_bool_two = True
+# print(type(my_baby_bool_two))
+
+statement_one = ((2 + 2 + 2 >= 6) and (-1 * -1 < 0)) if True else False
+print(statement_one)
+
+statement_two = ((4 * 2 <= 8) and (7 - 1 == 6)) if True else False
+print(statement_two)
